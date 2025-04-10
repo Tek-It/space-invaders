@@ -226,7 +226,7 @@ GameObject:
   - component: {fileID: 793971269}
   m_Layer: 0
   m_Name: spawner
-  m_TagString: GameController
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -278,6 +278,10 @@ PrefabInstance:
     - target: {fileID: 2330301020568597368, guid: ed5dba53f501e8d4fa11c9a105e72c91, type: 3}
       propertyPath: m_Name
       value: Canvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 4060037824688710115, guid: ed5dba53f501e8d4fa11c9a105e72c91, type: 3}
+      propertyPath: m_RenderMode
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8960088229562471166, guid: ed5dba53f501e8d4fa11c9a105e72c91, type: 3}
       propertyPath: m_Pivot.x
